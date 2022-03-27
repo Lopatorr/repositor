@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	cout<<"Statement about yourself " <<endl;
+	
 	cout<<"Name:Lakusta Roman Sergiyovych\n";
 	cout<<"Date of birthday:02.12.2004\n";
 	cout<<"Place of residence:Kolomyya\n";
